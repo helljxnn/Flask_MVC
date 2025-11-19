@@ -27,4 +27,4 @@ def formulario_triangulo():
 
 # Ejecución de la aplicación Flask
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True) #Se pone solo en desarrollo para que al hacer cambios se reinicie el servidor
